@@ -1,0 +1,44 @@
+
+body,html
+{
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+}
+
+
+.hello{
+    color: rgb(255, 255, 255);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 100px;
+    position: relative;
+    top: 30%;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 200px;
+}
+
+.welcome
+{
+    color: rgb(255, 255, 255);
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    width: 50%;
+    text-align: center;
+
+}
+
+#bg
+{
+    vertical-align: middle;
+}
+
+#but
+{
+    position: absolute;
+    top: 70%;
+    right: 48%;
+}
+

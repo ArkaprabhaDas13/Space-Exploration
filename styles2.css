@@ -1,0 +1,69 @@
+    h1
+    {
+        font-family: 'Glory', sans-serif;
+        color: yellow;
+        font-size: 50px;
+        
+    }
+
+    h2
+    {
+        font-family: 'Glory', sans-serif;
+        color: yellow;
+    }
+
+    h3
+    {
+        font-family: 'Glory', sans-serif;
+        color: yellow;
+        padding: 0;
+        margin: 0;
+    }
+
+    .sun
+    {
+        background-image: url("https://wallpaperaccess.com/full/197680.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        height: 100%; 
+        padding: 0;
+        margin: 0;
+    }
+
+    .galaxy
+    {
+        background-image: url("https://wallpaperaccess.com/full/487706.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    
+
+    .bigbang
+    {
+        background-image: url("https://wallpaperaccess.com/full/511652.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center; 
+        
+    }
+
+    .circle
+    {
+        width: 10%;
+    }
+
+
+    #cir
+    {
+        width: 30%;
+        padding-top: 1%;
+    }
+
+    #cards
+    {
+        background-image:url("https://wallpaperaccess.com/full/37638.jpg") ;
+        background-attachment:fixed;
+    }
